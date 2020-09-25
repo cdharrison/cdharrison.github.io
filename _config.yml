@@ -1,1 +1,9 @@
+# ./_config.yml
+title: Chris Harrison
+logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-seo-tag
